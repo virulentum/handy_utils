@@ -1,4 +1,4 @@
 handy_utils
 ===========
 
-Some handy utils
+This is my small git-repository.
